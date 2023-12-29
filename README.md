@@ -35,3 +35,7 @@ Ensure the following libraries are installed:
 * Portalocker > 2.0
 * Pandas
 * Scikit-learn
+
+Feel free to explore the notebooks for practical demonstrations and examples of utilizing these regression models. 
+
+If you encounter any issues or have suggestions, contributions are welcome!
